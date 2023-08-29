@@ -1,8 +1,13 @@
-# React + Vite
+# My-React-Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A portfolio developed with React. Within the portfolio are featured sections such as an About Me, projects I have done, a Resume and a way to contact me.
 
-Currently, two official plugins are available:
+## Screenshot
+![Portfolio-Screenshot](./src/assets/images/readme-ss.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Future Developments
+This portfolio is currently barebones in design and uses a Lorem Ipsum for the about me and Resume. In the near future I would like to add more CSS styling and properly fill in the about me and Resume section.
+
+## Deployed App
+[Click here to  go to the Deployed Portfolio](https://stellar-mandazi-c356c9.netlify.app/)
