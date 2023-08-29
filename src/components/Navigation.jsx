@@ -7,7 +7,7 @@ function Navigation ({ currentPage, setCurrentPage }) {
                 <a
                 href='#about'
                 onClick={() => setCurrentPage('about')}
-                className={currentPage === 'about' ? 'nla' : 'nl'}
+                className={currentPage === 'about' ? 'nla' : ''}
                 >
                 About Me
                 </a>
@@ -16,7 +16,7 @@ function Navigation ({ currentPage, setCurrentPage }) {
                 <a
                 href='#portfolio'
                 onClick={() => setCurrentPage('portfolio')}
-                className={currentPage === 'portfolio' ? 'nla' : 'nl'}
+                className={currentPage === 'portfolio' ? 'nla' : ''}
                 >
                 Portfolio
                 </a>
@@ -25,7 +25,7 @@ function Navigation ({ currentPage, setCurrentPage }) {
                 <a
                 href='#contact'
                 onClick={() => setCurrentPage('contact')}
-                className={currentPage === 'contact' ? 'nla' : 'nl'}
+                className={currentPage === 'contact' ? 'nla' : ''}
                 >
                 Contact Me
                 </a>
@@ -34,7 +34,7 @@ function Navigation ({ currentPage, setCurrentPage }) {
                 <a
                 href='#resume'
                 onClick={() => setCurrentPage('resume')}
-                className={currentPage === 'resume' ? 'nla' : 'nl'}
+                className={currentPage === 'resume' ? 'nla' : ''}
                 >
                 Resume
                 </a>

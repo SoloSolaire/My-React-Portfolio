@@ -10,7 +10,7 @@ import Resume from './pages/Resume';
 import './App.css';
 
 function App() {
-  const [currentPage, setCurrentPage] = useState('about')
+  const [currentPage, setCurrentPage] = useState('about');
 
   return (
     <div>
