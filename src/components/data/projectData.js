@@ -4,6 +4,7 @@ import CQ from '../../assets/images/Screenshot.png'
 import WDB from '../../assets/images/wdss.png'
 import SVGSS from '../../assets/images/SVG.png'
 import ecbe from '../../assets/images/ecbe-ss.png'
+import PatronStation from '../../assets/images/Patron-station-SS.png'
 
 const projectData = [
     {
@@ -47,6 +48,12 @@ const projectData = [
         github: 'https://github.com/SoloSolaire/e-commerce-back-end',
         deployed: 'https://drive.google.com/file/d/1odM0o5YINM7NjcY6ArxBhRJ_OJyCLyiF/view',
         image: ecbe
+    },
+    {
+        title: 'Patron-Station',
+        description: 'An app to endorse other project creators.',
+        github: 'https://github.com/SoloSolaire/Patron-Station',
+        image: PatronStation
     }
 ]
 
